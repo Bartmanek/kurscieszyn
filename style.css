@@ -5,3 +5,11 @@ div{
     position: absolute;
     left: 0px;
 }
+
+.div{
+    height: 200px;
+    background-color: green;
+    width: 200px;
+    position: absolute;
+    right: 0px;
+}
